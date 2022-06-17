@@ -10,7 +10,7 @@ global.mods = ['6283840600765']
 global.prems = ['6283840600765'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Oᵂηʀ᭄๖ۣۣۜPutraBotz_𝙊𝙛𝙛cོ1꧅'
+global.nameowner = 'Oᵂηʀ᭄๖ۣۣۜPutraBotzcོ1꧅'
 global.numberowner = '6283840600765'
 global.instagram = 'https://instagram.com/Putra Nich'
 global.github = 'https://github.com/Putratod'
@@ -20,7 +20,7 @@ global.gopay = '-'
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Putrabotz-MD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ'
+global.gc = 'https://chat.whatsapp.com/FeytLx6M5RBImH3D9XxDX8'
 global.web = 'https://instagram.com/Putra Nich' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/Putra Nich'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
@@ -32,7 +32,7 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© ❋ཻུ۪۪⸙𝐑𝐈𝐄𝐋-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝐑𝐈𝐄𝐋𝐁𝐎𝐓𝐙_𝙊𝙛𝙛cོ1꧅'
+global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜPutrabotzcོ1꧅'
 global.wm3 = 'ᯤ 𝚁𝙸𝙴𝙻 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
