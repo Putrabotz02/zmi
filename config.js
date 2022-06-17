@@ -5,24 +5,24 @@
 // RECODE BY RIEL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6282146218274'] 
-global.mods = ['6282146218274'] 
-global.prems = ['6282146218274'] 
+global.owner = ['6283840600765'] 
+global.mods = ['6283840600765'] 
+global.prems = ['6283840600765'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Oᵂηʀ᭄๖ۣۣۜ𝐑𝐢𝐞𝐥𝐛𝐨𝐭𝐳_𝙊𝙛𝙛cོ1꧅'
-global.numberowner = '6282146218274'
-global.instagram = 'https://instagram.com/Rielgans12'
-global.github = 'https://github.com/Rieltod'
-global.dana = '083813417529'
-global.pulsa = '083813417529'
-global.gopay = '083813417529'
+global.nameowner = 'Oᵂηʀ᭄๖ۣۣۜPutraBotz_𝙊𝙛𝙛cོ1꧅'
+global.numberowner = '6283840600765'
+global.instagram = 'https://instagram.com/Putra Nich'
+global.github = 'https://github.com/Putratod'
+global.dana = '083856051043'
+global.pulsa = '083856051043'
+global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Rielbotz-MD⳹ ❋ཻུ۪۪'
+global.namebot = '❋ཻུ۪۪⸙Putrabotz-MD⳹ ❋ཻུ۪۪'
 global.gc = 'https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ'
-global.web = 'https://instagram.com/Rielgans12' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/Rielgans12'
+global.web = 'https://instagram.com/Putra Nich' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/Putra Nich'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -43,7 +43,7 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Rielbotz'
+global.packname = 'Putrabotz'
 global.author = '@riel'
 
 //=============『 Apikey 』================== //
